@@ -1,3 +1,4 @@
+*   My portfolio: [https://farid-mo.github.io/portfolio/](https://farid-mo.github.io/portfolio/)
 *   🌍  I'm based in Stuttgart, Germany
 *   ✉️  You can contact me at [farid.fm.mohammadi@gmail.com](mailto:farid.fm.mohammadi@gmail.com)
 <p align="left">
